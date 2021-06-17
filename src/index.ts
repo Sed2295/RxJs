@@ -1,10 +1,1 @@
-
-
-console.log('Hola Mundo!');
-
-
-
-
-
-
-
+//Si deseo ver el funcionamiento de algun código solo hay que copiar y pegar en el index el codigo del archivo.
